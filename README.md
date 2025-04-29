@@ -50,5 +50,5 @@ The pipeline consists of three major stages:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Noisy-Audio-Transcription-Qa.git
+   git clone https://github.com/hemanthpadala03/Noisy-Audio-Transcription-Qa.git
    cd Noisy-Audio-Transcription-Qa
